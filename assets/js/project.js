@@ -46,6 +46,14 @@ const projects = [
     Githublink: "https://gitlab.com/akashbangalkar/cancer_diagnosis",
   },
   {
+    title: "BBC News Classification",
+    cardImage: "assets/images/project-page/bbc.png",
+    description: "Classify news articles into the right category.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "https://gitlab.com/akashbangalkar/bbc-news-classification",
+  },
+  {
     title: "Stackoverflow Tag Predictor",
     cardImage: "assets/images/project-page/stack.png",
     description: "Predict a Stackoverflow tag based on given question.",
