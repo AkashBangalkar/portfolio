@@ -78,6 +78,14 @@ const projects = [
     Githublink: "https://gitlab.com/akashbangalkar/microsoft_malware_detection",
   },
   {
+    title: "Products Classification",
+    cardImage: "assets/images/project-page/items.jpg",
+    description: "Classify items/products into correct category.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "https://gitlab.com/akashbangalkar/product-classification",
+  },
+  {
     title: "Ad Click Prediction",
     cardImage: "assets/images/project-page/ad.jpg",
     description: "Predict if a user would click on an advertisement based on the features of the user.",
