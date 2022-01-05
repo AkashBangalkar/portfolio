@@ -38,6 +38,14 @@ const projects = [
     Githublink: "404.html",
   },
   {
+    title: "Spam Email Classification",
+    cardImage: "assets/images/project-page/email_spam.jpg",
+    description: "Classify new mail whether it is spam or not.",
+    tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
+    Previewlink: "",
+    Githublink: "https://gitlab.com/akashbangalkar/spam-email-classification",
+  },
+  {
     title: "Personalized Cancer Diagnosis",
     cardImage: "assets/images/project-page/cancer.jpg",
     description: "Classify the given genetic variations/mutations based on evidence from text-based clinical literature.",
