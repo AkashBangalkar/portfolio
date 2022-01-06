@@ -94,6 +94,14 @@ const projects = [
     Githublink: "https://gitlab.com/akashbangalkar/ad_click",
   },
   {
+    title: "Diabetes Prediction",
+    cardImage: "assets/images/project-page/db.png",
+    description: "Predict that whether the patient has diabetes or not on the basis of the features.",
+    tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
+    Previewlink: "",
+    Githublink: "https://gitlab.com/akashbangalkar/diabetes-prediction",
+  },
+  {
     title: "Amazon Fashion Discovery Engine",
     cardImage: "assets/images/project-page/amazon.png",
     description: "Recommendation engine which suggests similar products (apparel) to the given product (apparel) in any e-commerce websites.",
