@@ -6,12 +6,12 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Covid-19 Outbreak Prediction",
+    title: "Covid-19 Outbreak Data Analysis",
     cardImage: "assets/images/project-page/covid.jpg",
     description: "Covid-19 Daily Cases and Deaths Prediction.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
-    Githublink: "404.html",
+    Githublink: "https://gitlab.com/akashbangalkar/covid-19-outbreak-data-analysis",
   },
   {
     title: "Taxi Demand Prediction in New York City",
