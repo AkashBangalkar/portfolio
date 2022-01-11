@@ -70,6 +70,14 @@ const projects = [
     Githublink: "404.html",
   },
   {
+    title: "Amazon Kindle Reviews",
+    cardImage: "assets/images/project-page/kindle.jpg",
+    description: "Predict a review, whether it is positive or negative.",
+    tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
+    Previewlink: "",
+    Githublink: "https://gitlab.com/akashbangalkar/amazon-kindle-reviews",
+  },
+  {
     title: "Microsoft Malware Detection",
     cardImage: "assets/images/project-page/microsoft.png",
     description: "The problem statement is to build a robust multi class classification model that can accurately classify which class a malware belongs to.",
