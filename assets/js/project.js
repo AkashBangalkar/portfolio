@@ -31,11 +31,11 @@ const projects = [
   },
   {
     title: "Netflix Movie Recommendation System",
-    cardImage: "assets/images/project-page/movie-recommendation.jpeg",
+    cardImage: "assets/images/project-page/netflix.jpg",
     description: "Movie Recommendation System aims to recommend movies to users.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
-    Githublink: "404.html",
+    Githublink: "https://gitlab.com/akashbangalkar/netflix-movie-recommendation",
   },
   {
     title: "Spam Email Classification",
@@ -141,7 +141,14 @@ const projects = [
     Previewlink: "",
     Githublink: "https://gitlab.com/akashbangalkar/facebook_friend_recommendation",
   },
-
+  {
+    title: "Amazon Fine Food Reviews",
+    cardImage: "assets/images/project-page/fine_food.jpg",
+    description: "Predict a review, whether it is positive or negative.",
+    tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
+    Previewlink: "",
+    Githublink: "https://gitlab.com/akashbangalkar/amazon-fine-food-reviews",
+  },
 ];
 
 // function for rendering project cards data
