@@ -34,6 +34,16 @@ const moocscards = [
     cardImage: "assets/images/education-page/coursera2.svg",
     moocLink: "https://www.coursera.org/learn/data-analysis-with-python/home/welcome",
   },
+  {
+    title: "Tableau",
+    cardImage: "assets/images/education-page/great_learning1.jpg",
+    moocLink: "https://www.coursera.org/learn/data-analysis-with-python/home/welcome",
+  },
+  {
+    title: "Overview of Geoprocessing using Python",
+    cardImage: "assets/images/education-page/isro.png",
+    moocLink: "https://www.coursera.org/learn/data-analysis-with-python/home/welcome",
+  },
   
 ];
 
