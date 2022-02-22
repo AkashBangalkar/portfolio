@@ -70,6 +70,14 @@ const projects = [
     Githublink: "404.html",
   },
   {
+    title: "Fake News Detection",
+    cardImage: "assets/images/project-page/fake_news.jpg",
+    description: "Predict/Detect the news, whether it is real or fake.",
+    tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
+    Previewlink: "",
+    Githublink: "https://gitlab.com/akashbangalkar/fake-news-detection",
+  },
+  {
     title: "Amazon Kindle Reviews",
     cardImage: "assets/images/project-page/kindle.jpg",
     description: "Predict a review, whether it is positive or negative.",
